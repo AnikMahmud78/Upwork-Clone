@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Development & IT",
+        "rating": "4.85/5",
+        "skill": 1853
+    },
+    {
+        "id": 2,
+        "name": "Design & Creative",
+        "rating": "4.75/3",
+        "skill": 1953
+    },
+    {
+        "id": 3,
+        "name": "Sales & Marketing",
+        "rating": "4.95/3",
+        "skill": 2953
+    },
+    {
+        "id": 4,
+        "name": "Writing & Translation",
+        "rating": "4.95/3",
+        "skill": 2953
+    },
+    {
+        "id": 5,
+        "name": "Admin & Customer Support",
+        "rating": "4.95/3",
+        "skill": 2953
+    },
+    {
+        "id": 6,
+        "name": "Finance & Account",
+        "rating": "4.95/3",
+        "skill": 2953
+    },
+    {
+        "id": 7,
+        "name": "Engineering & Agriculture",
+        "rating": "4.95/3",
+        "skill": 2953
+    },
+    {
+        "id": 8,
+        "name": "Legal",
+        "rating": "4.95/3",
+        "skill": 2953
+    }
+]

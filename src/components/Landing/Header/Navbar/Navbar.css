@@ -1,0 +1,30 @@
+.w-80{
+    width: 80%;
+}
+.custom-nav{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.173);
+}
+.nav-2__text {
+    display: flex;
+    grid-gap: 30px;
+    color: #5e6d55;
+    
+}
+.nav-2__text p{
+    color: #5e6d55;
+    font-weight: 500;
+}
+.nav-2{
+    padding-left: 30px;
+    height: 50px;
+}
+.nav-2__text p:hover{
+    cursor: pointer;
+    color: rgb(68, 161, 68);
+}
+.header-container {
+    position: sticky;
+    top: 0;
+    z-index: 1000000;
+    background-color: white;
+}

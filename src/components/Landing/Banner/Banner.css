@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+    
+}
+.banner-container h1{
+    color: #14a800;
+    font-size: 80px;
+    letter-spacing: .03em;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+}
+.banner-container h5{
+    color: #383c37b2;
+    letter-spacing: .03em;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner-container img{
+    width: 480px;
+    height: 480px;
+}
+.custom-btn1{
+    border: none;
+    background-color: #14a800;
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+}
+.custom-btn1:hover{
+    background-color: #147a07;
+    transition: .4s;
+}
+.custom-btn2{
+    background: white;
+    border: 1px solid #14a800;
+    color: #14a800;
+    border-radius: 20px;
+    height: 40px;
+    width: 140px;
+}
+.custom-btn2:hover{
+    border: 1px solid #147a07 ;
+    color: #147a07 ;
+    background-color: rgb(240, 255, 239);
+    transition: .4s;
+}
+.trusted-text{
+    margin-top: 40px;
+}
+.trusted-text p{
+    color: darkgray;
+    font-family: 'Noto Sans', sans-serif;
+}
+.trusted-text img{
+    margin-top: 10px;
+    width: 80%;
+    height: 40px;
+}

@@ -1,0 +1,45 @@
+.talents-container{
+    width: 80%;
+    margin-top: 50px;
+}
+.talents-container p a{
+    color: #14a800;
+    text-decoration: none;
+}
+.talents-container p a:hover{
+    
+    text-decoration: underline;
+}
+.talents-container p{
+    color: #383c37b2;
+    letter-spacing: .03em;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+    /* font-size: 24px; */
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.talents-box{
+    /* display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px; */
+    width: 80%;
+}
+.catagories-box{
+    width: 280px;
+    height: 134px;
+    background:#f2f7f2;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+}
+.catagories-box:hover{
+    background: #e4ebe4;
+    transition: .5s;
+}
+.catagories-box h4{
+    font-size: 22px;
+    font-weight: 500;
+    cursor: pointer;
+}
